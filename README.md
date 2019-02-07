@@ -9,37 +9,22 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [Requirements](#Requirements)
-- [License](#License)
 - [Roadmap](#Roadmap)
-- [Key Tip](#Key-Tip)
 - [Acknowledgments](#Acknowledgments)
 
 ## Description
-A Python Crash Course from the book 'Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press. Examples and content shown is simple examples with some descriptions of various concepts. Ideally made for people who have a general understanding of programming.
+This gives all of the Programming With Unix homeworks that I did, so I can review them later on. Some of the answers will be wrong, it then becomes your job to correct them, as this is not used as a cheating device.
 
 ## Installation
-When installing, just put the file into your IDE for whatever you may want to use it for
+Just click on the documents and download the Word documents to see them.
 
 ## Requirements
-- Python 2.7+
-- IDE that can run Python
-- Personally reccomended items above.
-
-## License
-I do not own any of the book, I just summarized, and demonstrated the examples of 
-Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press.
+- Microsoft Word
+- System that can run Linux terminal.
 
 ## Roadmap
-I intend to do Functions, Classes, and Error Exception Handling in the near future.
-Later down the road, I'd also like to implement this with Django for web interface tutorial
+I do not intend to update this repository. 
 
-## Key Tip
-A general guideline that one should understand while doing Python.
-Either enter into IDE or terminal and run it to understand more.
-```python
-import this
-```
 ## Acknowledgments
-- JetBrains
-- NoStarch
-- Python
+- Linux
+- Josh Alcorn
