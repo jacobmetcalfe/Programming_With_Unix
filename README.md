@@ -1,2 +1,45 @@
-# Unix_2080
-Assignments based on my experience in CS 2080:  Programming with Unix. 
+<h1 align="center"> Programming With Unix </h1> <br>
+</h1> <br>
+<p align="center">
+  <img alt="Random Gif" title="Gif" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/4317950/UNIX_%281%29.GIF?1474937135" width="200" height="200">
+</p>
+
+## Table of Contents
+
+- [Description](#Description)
+- [Installation](#Installation)
+- [Requirements](#Requirements)
+- [License](#License)
+- [Roadmap](#Roadmap)
+- [Key Tip](#Key-Tip)
+- [Acknowledgments](#Acknowledgments)
+
+## Description
+A Python Crash Course from the book 'Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press. Examples and content shown is simple examples with some descriptions of various concepts. Ideally made for people who have a general understanding of programming.
+
+## Installation
+When installing, just put the file into your IDE for whatever you may want to use it for
+
+## Requirements
+- Python 2.7+
+- IDE that can run Python
+- Personally reccomended items above.
+
+## License
+I do not own any of the book, I just summarized, and demonstrated the examples of 
+Python Crash Course, A Hands-On, Project-Based Introduction to Programming, by Eric Matthes and published by No Starch Press.
+
+## Roadmap
+I intend to do Functions, Classes, and Error Exception Handling in the near future.
+Later down the road, I'd also like to implement this with Django for web interface tutorial
+
+## Key Tip
+A general guideline that one should understand while doing Python.
+Either enter into IDE or terminal and run it to understand more.
+```python
+import this
+```
+## Acknowledgments
+- JetBrains
+- NoStarch
+- Python
