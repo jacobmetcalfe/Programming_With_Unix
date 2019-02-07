@@ -13,7 +13,7 @@
 - [Acknowledgments](#Acknowledgments)
 
 ## Description
-This gives all of the Programming With Unix homeworks that I did, so I can review them later on. Some of the answers will be wrong, it then becomes your job to correct them, as this is not used as a cheating device.
+This gives all of the Programming With Unix homeworks that I did, so I can review them later on. Some of the answers will be wrong, it then becomes your job to correct them, as this will not be used as a cheating device.
 
 ## Installation
 Just click on the documents and download the Word documents to see them.
